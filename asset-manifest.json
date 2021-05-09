@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-demo/static/css/main.176ef1bc.chunk.css",
+    "main.js": "/react-demo/static/js/main.ebc99bd2.chunk.js",
+    "main.js.map": "/react-demo/static/js/main.ebc99bd2.chunk.js.map",
+    "runtime-main.js": "/react-demo/static/js/runtime-main.7939365d.js",
+    "runtime-main.js.map": "/react-demo/static/js/runtime-main.7939365d.js.map",
+    "static/js/2.7efdabcc.chunk.js": "/react-demo/static/js/2.7efdabcc.chunk.js",
+    "static/js/2.7efdabcc.chunk.js.map": "/react-demo/static/js/2.7efdabcc.chunk.js.map",
+    "index.html": "/react-demo/index.html",
+    "static/css/main.176ef1bc.chunk.css.map": "/react-demo/static/css/main.176ef1bc.chunk.css.map",
+    "static/js/2.7efdabcc.chunk.js.LICENSE.txt": "/react-demo/static/js/2.7efdabcc.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/react-demo/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.svg": "/react-demo/static/media/svg-2.5f11287c.svg",
+    "static/media/svg-3.svg": "/react-demo/static/media/svg-3.b178ad74.svg",
+    "static/media/video.d48e2181.mp4": "/react-demo/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7939365d.js",
+    "static/js/2.7efdabcc.chunk.js",
+    "static/css/main.176ef1bc.chunk.css",
+    "static/js/main.ebc99bd2.chunk.js"
+  ]
+}
